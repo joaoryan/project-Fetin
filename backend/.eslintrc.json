@@ -17,9 +17,8 @@
 		"ecmaVersion": 2018
 	},
 	"plugins": [
-        "json",
 		"@typescript-eslint"
-    ],
-    "rules": {
-    }
+	],
+	"rules": {
+	}
 }
